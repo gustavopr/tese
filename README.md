@@ -23,8 +23,12 @@ Possíveis linhas de pesquisa seriam:
 ## Referências
 [1] Bernanke, B.; Gertler, M.; Gilchrist, S. _The Financial Accelerator in a Quantitative
 Business Cycle Framework_; Working Paper 6455, 1998.
+
 [2] Gilchrist, S.; Ortiz, A.; Zakrajsek, E. Credit Risk and the Macroeconomy: _Evidence from an Estimated DSGE Model_. Preparado para a conferência do FRB/JMCB “Financial Markets and Monetary Policy”; 2009.
+
 [3] Christiano, L.; Ilut, C. L.; Motto, R.; Rostagno, M. _Monetary Policy and Stock Market
 Booms_; Working Paper 16402, 2010.
+
 [4] Cúrdia, V.; Woodford, M. _Credit Spreads and Monetary Policy_; Working Paper 15289, 2009.
+
 [5] Borio, C. _The financial cycle and macroeconomics_; BIS BIS Working Papers 395, 2012
